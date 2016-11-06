@@ -1,9 +1,27 @@
 {
   "name": "hapi-seneca-plugin",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Seneca microservices plugin for Hapi framework",
   "main": "index.js",
+  "keywords": [
+    "hapi",
+    "microservice",
+    "seneca"
+  ],
   "dependencies": {
     "seneca": "^3.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Alex-Werner/hapi-seneca-plugin.git"
+  },
+  "author": {
+    "name": "Alex-Werner",
+    "email": "alex@werner.fr"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex-Werner/hapi-seneca-plugin/issues"
+  },
+  "homepage": "https://github.com/Alex-Werner/hapi-seneca-plugin#readme"
 }
